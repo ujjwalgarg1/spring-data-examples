@@ -1,4 +1,4 @@
-# Spring Data Examples Something
+# Spring Data Examples
 
 [![Build Status](https://travis-ci.org/spring-projects/spring-data-examples.svg?branch=issue%2F%2313)](https://travis-ci.org/spring-projects/spring-data-examples)
 
